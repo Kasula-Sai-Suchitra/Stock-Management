@@ -44,14 +44,10 @@ A modern web-based inventory and supply chain management solution designed to he
 
 ## Screenshots
 
-(Add screenshots here)
-
-## Project Demo
-
-(Add demo video link here)
+<img width="1890" height="828" alt="Screenshot 2026-06-16 193458" src="https://github.com/user-attachments/assets/634917d0-0b28-44c8-96f7-c7e3b6f15f31" />
 
 ## Author
 
-Your Name
+K.Sai Suchitra
 
 Internship Project Submission
